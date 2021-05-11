@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  top: 20%;
+  font-size: 40px
+}
+.click-button{
+  font-size: 20px;
+  background-color: red;
+  border-radius: 5px;
+}
